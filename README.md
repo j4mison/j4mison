@@ -1,4 +1,4 @@
-
+![](dino.gif)
 <div id="header" align="center">
 <div id="badges">
   <a href="https://www.linkedin.com/in/jamison-flynn/">
@@ -8,7 +8,6 @@
 
 ### Hi there 👋
 
-![](dino.gif)
 <!--
 **j4mison/j4mison** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
